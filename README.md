@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![React](https://raw.githubusercontent.com/AnsellMaximilian/github/explore/topics/React/React.png)
+![React](https://raw.githubusercontent.com/github/explore/topics/React/React.png)
 
 <!--
 **AnsellMaximilian/AnsellMaximilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
