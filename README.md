@@ -12,6 +12,8 @@ Hello. I am from Indonesia.
 ![VueJS](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
