@@ -2,21 +2,28 @@
 
 <!-- ![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png) -->
 
-## Technologies and Tools
+## Languages and Tools
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass)
 
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+### Tools
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)
 
-## Contact me:
 
+## Contact me
+[![LinkedIn](https://img.shields.io/badge/-Ansell%20Maximilian-blue?style=for-the-badge&logo=linkedin)][linkedin]
+[![Github](https://img.shields.io/badge/-AnsellMaximilian-black?style=for-the-badge&logo=github)][github]
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge)][website]
 
 ## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jarooda&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarooda&theme=vue&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ansellmaximilian&count_private=true&show_icons=true&include_all_commits=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansellmaximilian&theme=dark&layout=compact)
 
 
 <!-- Definitions -->
