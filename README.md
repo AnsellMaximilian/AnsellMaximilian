@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<!-- ![React](https://raw.githubusercontent.com/github/explore/master/topics/react/react.png) -->
+# Ansell Maximilian 😁
+Hello. I am from Indonesia.
 
 ## Languages and Tools
 ### Languages
@@ -20,15 +19,16 @@
 
 
 ## Contact me
-[![LinkedIn](https://img.shields.io/badge/-Ansell%20Maximilian-blue?style=for-the-badge&logo=linkedin)][linkedin]
+[![LinkedIn](https://img.shields.io/badge/-Ansell%20Maximilian-0077b5?style=for-the-badge&logo=linkedin)][linkedin]
 [![Github](https://img.shields.io/badge/-AnsellMaximilian-black?style=for-the-badge&logo=github)][github]
-[![Twitter](https://img.shields.io/badge/-AnsellMax-blue?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Twitter](https://img.shields.io/badge/-AnsellMax-00acee?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Email](https://img.shields.io/badge/-ansellmaximilian@gmail.com-f7f7f7?style=for-the-badge&logo=gmail)][email]
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge)][website]
 
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ansellmaximilian&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansellmaximilian&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansellmaximilian&theme=dark&layout=compact&langs_count=10)
 
 
 <!-- Definitions -->
@@ -36,3 +36,4 @@
 [linkedin]: https://www.linkedin.com/in/ansell-maximilian/
 [github]: https://www.linkedin.com/in/ansell-maximilian/
 [twitter]: https://twitter.com/AnsellMax
+[email]: mailto:ansellmaximilian@gmail.com
