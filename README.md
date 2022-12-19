@@ -1,5 +1,4 @@
 # Ansell Maximilian 😁
-Hello. I am from Indonesia.
 
 ## Languages and Tools
 ### Languages
